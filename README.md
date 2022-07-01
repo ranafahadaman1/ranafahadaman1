@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranafahadaman1
-- 👀 I’m interested in Electrical and Computer Engineering
-- 🌱 I’m currently learning computer languages for website and app development, and basics of Cybersecurity.
+- 👀 I’m interested in computer languages for website and app development, cybersecurity.
+- 🌱 I’m currently learning Electrical and Computer Engineering.
 - 💞️ I’m looking to collaborate on nothing as of now.
 - 📫 How to reach me: ranafahadaman1@gmail.com
 
